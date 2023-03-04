@@ -1,0 +1,15 @@
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\bin\Debug\net6.0\Fibonaccci.exe
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\bin\Debug\net6.0\Fibonaccci.deps.json
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\bin\Debug\net6.0\Fibonaccci.runtimeconfig.json
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\bin\Debug\net6.0\Fibonaccci.dll
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\bin\Debug\net6.0\Fibonaccci.pdb
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.csproj.AssemblyReference.cache
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.AssemblyInfoInputs.cache
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.AssemblyInfo.cs
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.csproj.CoreCompileInputs.cache
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.dll
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\refint\Fibonaccci.dll
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.pdb
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\Fibonaccci.genruntimeconfig.cache
+C:\Users\luis3\OneDrive\Documentos\VS Studio\Fibonaccci\Fibonaccci\obj\Debug\net6.0\ref\Fibonaccci.dll
